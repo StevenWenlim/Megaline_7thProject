@@ -1,5 +1,5 @@
 # Megaline_7thProject
-This project is my project in sprint 2, which is Introduction to Machine Learning.
+This project is my project in sprint 7, which is Introduction to Machine Learning.
 
 In this srpint i learn the basics of machine learning and the Scikit Learn library.
 
